@@ -169,12 +169,6 @@ Screenshots of outputs are included:
 
 ---
 
-## 👨‍💻 Author
-
-**Gouranga Ghosh**
-
----
-
 ## ⭐ Acknowledgement
 
 Data provided by the **An API of Ice and Fire**.
